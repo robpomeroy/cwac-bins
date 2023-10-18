@@ -1,4 +1,4 @@
-# Bin collection schedule retreiver (Cheshire West and Cheshire)
+# Bin collection schedule retriever (Cheshire West and Cheshire)
 
 Cheshire West and Chester don't currently offer a notification service to remind
 you which bins should be left for collection. I'm forgetful and the collection
