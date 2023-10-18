@@ -1,0 +1,4 @@
+vendor/
+.env
+SMTP.creds
+smtp.conf

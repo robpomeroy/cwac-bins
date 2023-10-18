@@ -1,0 +1,11 @@
+# Copy this to smtp.conf and set values as appropriate.
+
+# Email recipients, separated by commas
+Recipients=someone@here.com,someoneelse@there.com
+
+# Email sender (must be acceptable to the SMTP server)
+Sender=Bin notifer <your@email.address>
+
+# SMTP server
+SMTPserver=smtp.gmail.com
+SMTPport=587

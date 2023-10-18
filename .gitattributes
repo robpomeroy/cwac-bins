@@ -1,0 +1,6 @@
+# Default line ending is lf
+* text=auto eol=lf
+
+# Line ending for Windows files is crlf
+*.ps1 text=auto eol=crlf
+*.conf* text=auto eol=crlf
